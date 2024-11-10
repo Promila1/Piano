@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/A1.wav</file>
+        <file>sounds/A.wav</file>
+        <file>sounds/B.wav</file>
+        <file>sounds/C1.wav</file>
+        <file>sounds/C.wav</file>
+        <file>sounds/D1.wav</file>
+        <file>sounds/D.wav</file>
+        <file>sounds/E.wav</file>
+        <file>sounds/F1.wav</file>
+        <file>sounds/F.wav</file>
+        <file>sounds/G1.wav</file>
+        <file>sounds/G.wav</file>
+    </qresource>
+    <qresource prefix="/QML">
+        <file>main.qml</file>
+    </qresource>
+</RCC>
